@@ -49,7 +49,7 @@ int main() {
     cin.tie(0);
 //    freopen("spinslide.inp","r",stdin);
 //    freopen("spinslide.out","w",stdout);
-    cin>>T;
+    cin>>T; 
     for(int l=1;l<=T;l++){
         cin>>N>>M;
         for(int i=0;i<N;i++){
